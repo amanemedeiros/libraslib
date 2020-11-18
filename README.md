@@ -1,4 +1,4 @@
-Biblioteca Open Source de interpretação de palavras em Libras.
+Biblioteca Open Source de interpretação de palavras em LIBRAS.
 
 Requisitos:
   - Biblioteca NumPy - versão mais atual
@@ -13,5 +13,7 @@ Modo de operação:
 class librasfunction
     method libras(string)
 Ao importar a biblioteca, o usuário deve alimentar a função libras() com alguma(s) palavra(s) para o vídeo rodar.
+
+Vídeos tirados do site http://www.acessibilidadebrasil.org.br/libras_3/.
 
 Obrigadx por utilizar!
